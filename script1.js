@@ -3,7 +3,7 @@ document.getElementById('login-form').addEventListener('submit', function (event
     var email = document.getElementById('email').value;
     var password = document.getElementById('password').value;
 
-    if (email === "@@@" && password === "29/4/2006") {
+    if (email === "SUS@with.us" && password === "29/4/2006") {
 
         window.location.href = 'dox.html';
     } else {
